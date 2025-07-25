@@ -3,9 +3,9 @@ module github.com/trunghn2003/localize
 go 1.24.3
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.9
+	github.com/gofiber/fiber/v2 v2.52.8
 	gorm.io/driver/postgres v1.6.0
-	gorm.io/gorm v1.30.1
+	gorm.io/gorm v1.25.12
 )
 
 require (
