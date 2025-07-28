@@ -1,6 +1,8 @@
 module github.com/trunghn2003/localize
 
-go 1.24.3
+go 1.23.0
+
+toolchain go1.23.7
 
 require (
 	gorm.io/driver/postgres v1.5.11
